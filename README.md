@@ -36,9 +36,11 @@ Alternatively, host it using GitHub Pages or any static site hosting service.
 ## ✨ Live Demo
 
 Check out the live version here:  
-👉 [Simon Game Live](https://mayankkk04.github.io/Simon-game/)  
-AWS Link - http://simon-game-aws.s3-website.ap-south-1.amazonaws.com
-> Replace the link with your actual GitHub Pages deployment.
+
+👉 [Simon Game Live](http://simon-game-aws.s3-website.ap-south-1.amazonaws.com/)  
+> Deployed on AWS.
+=======
+
 
 ## 🙌 Acknowledgments
 
