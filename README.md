@@ -38,8 +38,7 @@ Alternatively, host it using GitHub Pages or any static site hosting service.
 Check out the live version here:  
 
 👉 [Simon Game Live](http://simon-game-aws.s3-website.ap-south-1.amazonaws.com/)  
-> Deployed on AWS.
-=======
+
 
 
 ## 🙌 Acknowledgments
